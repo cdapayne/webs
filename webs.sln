@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webs.Plugins", "webs.Plugins.csproj", "{0575DEBB-B0A8-C26D-DB62-C3D1078D176C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webs", "webs.csproj", "{94C10868-636B-9759-F68D-05A29008B4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0575DEBB-B0A8-C26D-DB62-C3D1078D176C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0575DEBB-B0A8-C26D-DB62-C3D1078D176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0575DEBB-B0A8-C26D-DB62-C3D1078D176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0575DEBB-B0A8-C26D-DB62-C3D1078D176C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C10868-636B-9759-F68D-05A29008B4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C10868-636B-9759-F68D-05A29008B4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C10868-636B-9759-F68D-05A29008B4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C10868-636B-9759-F68D-05A29008B4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
